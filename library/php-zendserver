@@ -1,6 +1,6 @@
 Maintainers: Heigo Sinilind <heigo.sinilind@roguewave.com> (@hsinilind)
 GitRepo: https://github.com/zendtech/php-zendserver-docker.git
-GitCommit: 6ede5ce750897e68f766bd8507a6e35bb43162ea
+GitCommit: a09dcad1bffb954d9bd08ef4f603bb613c72a741
 
 Tags: 9.1
 Directory: 9.1/7.1
